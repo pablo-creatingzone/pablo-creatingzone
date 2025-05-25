@@ -114,9 +114,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/pablo-creatingzone/pablo-creatingzone/output/snake.svg" alt="Snake animation" />
-
-###
